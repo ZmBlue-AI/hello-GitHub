@@ -1,4 +1,4 @@
-# hello-GitHub
+# Myself
 测试用仓库
 # Hi, I'm 子铭 👋
 - 🎓 AI专业本科生
